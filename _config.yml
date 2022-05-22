@@ -34,8 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-url: yi-alps.github.io
-baseurl: /myreponame
+url: www.zzyylife.com
 
 # Exclude from processing.
 # The following items will not be processed, by default.
