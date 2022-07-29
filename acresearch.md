@@ -3,9 +3,9 @@ bg: "owl.jpg"
 layout: page
 title: "My research"
 crawlertitle: "Why and how this blog was created"
-permalink: /research/
+permalink: /acresearch/
 summary: "About my research"
-active: research
+active: acresearch
 ---
 
 # My research
