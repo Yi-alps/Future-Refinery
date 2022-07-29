@@ -1,14 +1,15 @@
 ---
 bg: "owl.jpg"
 layout: page
-title: "About"
+title: "CV"
 crawlertitle: "Why and how this blog was created"
 permalink: /about/
-summary: "About this blog"
+summary: "About myself"
 active: about
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# Self introduction
+My name is ZHAO Yi (赵羿), currently a PhD student at EPFL supervised by Prof. François Maréchal.
 
 You can find the source code for the Jekyll new theme at:
 {{site.twitter_username}} /
