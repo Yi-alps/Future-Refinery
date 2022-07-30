@@ -24,7 +24,5 @@ I was very very grateful to my manager at TotalEnergies. In the beginning of 202
 
 <!-- Zhejiang University is located in Hangzhou, a middle-size city of more than ten million population, where I felt much more lonely and isolated because it was the first time I left my families and friends. During my college,I spent most of the time by myself. -->
 
-
-
 <!-- I felt much more lonely after leaving my home. I didn't have too many friends in the undergraduate. -->
 
