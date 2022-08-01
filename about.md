@@ -19,7 +19,7 @@ In the last year of my undergraduate study, I was admitted into a joint-degree p
 
 After graduation, I gave up the opportunity to do a PhD at the University of Oxford and chose the University of Colorado Boulder. Due to the Covid 19, I was not able to arrive in Colorado. I stayted in Paris and at the same time worked at TotalEnergies as a renewable engineer and did my PhD remotely. After one semester of online lectures, I dropped out of the University of Colorado Boulder. 
 
-I was very very grateful to my manager at TotalEnergies. In the beginning of 2021, he granted me full funding to find a PhD project globally on renewable energy integration. Finally, I was acceptted by EPFL and started my PhD with the topic of "the refinery of the future" in September 2021.
+I was very very grateful to my supervior at TotalEnergies. In the beginning of 2021, he offered me full funding to find a PhD project globally on renewable energy integration. Finally, I was acceptted by EPFL and started my PhD with the topic of "the refinery of the future" in September 2021.
 
 
 <!-- Zhejiang University is located in Hangzhou, a middle-size city of more than ten million population, where I felt much more lonely and isolated because it was the first time I left my families and friends. During my college,I spent most of the time by myself. -->
