@@ -13,6 +13,9 @@ My name is ZHAO Yi (赵羿).
 
 I was born in [Xiangxiang](https://en.wikipedia.org/wiki/Xiangxiang), a very small city in the south of China in Hunan Province. In the first sixteen years of my life, I had been staying in my hometown. During that period, I was very quiet and loved reading and playing video games. 
 
+<img src="/assets/images/introduction/young.jpeg" alt="At the age of 12" width="200"/>
+<center>At the age of 12 </center>
+
 I had very good grades in the high school. In 2015, I was admitted into Zhejiang University with a rank of top 0.1% in the college entrance examination. I majored in engineering in the college.
 
 In the last year of my undergraduate study, I was admitted into a joint-degree program between École Polytechnique and Zhejiang University, where I focused on renewable energies and their applications. In the first year of my master, I did an exchange at the University of Sussex in the UK for 5 months. After that, I conducted my master thesis as an intern at TotalEnergies, an oil & gas company headquarted in Paris. Luckily, I obtained my master's degree at the age of 21 in 2020.
