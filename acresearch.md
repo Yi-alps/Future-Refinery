@@ -52,7 +52,7 @@ Luckily, I never work alone and I received a lot of supports from my PhD supervi
 
 **Period**: Mar 2022 to Sep 2022
 
-**Project**: Optimal hydrogen network in an refinery
+**Project**: Economies of Scale in PEMEC and SOEC Manufacturing Based on a Bottom-up Mode
 
 **Current**: Master student at École Polytechnique
 
