@@ -27,14 +27,14 @@ Luckily, I never work alone and I received a lot of supports from my PhD supervi
 
 ------------------------------------------------------------------------------------------------
 
-<div style="float: left; margin-right: 1em;"> 
+<div style="float: left; margin-right: 2em;"> 
 <img src="/assets/images/Research/Guilherme.png" width="180" alt="Guilherme" /></div>
 
 <!-- ![image](/assets/images/Research/Guilherme.png){:style="float: left"} -->
 
-**Name**: Guilherme Nascimento
+**Name**: [Guilherme Nascimento](https://www.linkedin.com/in/guilherme-hcaf-nascimento/)
 
-**Position**: Master Semester Project at IPESE: 
+**Position**: Master Semester Project at IPESE
 
 **Period**: Feb 2022 to Jun 2022
 
@@ -44,9 +44,9 @@ Luckily, I never work alone and I received a lot of supports from my PhD supervi
 
 ------------------------------------------------------------------------------------------------
 
-<div style="float: left; margin-right: 1em;">  <img src="/assets/images/Research/SyL.jpeg" width="180" alt="Shengyue" /></div>
+<div style="float: left; margin-right: 2em">  <img src="/assets/images/Research/SyL.jpeg" width="180" alt="Shengyue" /></div>
 
-**Name**: Shengyue Lu
+**Name**: [Shengyue Lu](https://www.linkedin.com/in/shengyue-lu-23bb49222/)
 
 **Position**: Internship at IPESE
 
