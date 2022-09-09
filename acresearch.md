@@ -27,8 +27,8 @@ Luckily, I never work alone and I received a lot of supports from my PhD supervi
 
 ------------------------------------------------------------------------------------------------
 
-<div style="float: left; margin-right: 1em;, margin-bottom: 1em"> 
-<img src="/assets/images/Research/Guilherme.png" width="180" alt="My Image" /></div>
+<div style="float: left; margin-right: 1em;"> 
+<img src="/assets/images/Research/Guilherme.png" width="180" alt="Guilherme" /></div>
 
 <!-- ![image](/assets/images/Research/Guilherme.png){:style="float: left"} -->
 
@@ -43,7 +43,8 @@ Luckily, I never work alone and I received a lot of supports from my PhD supervi
 **Current**: Internship at Artelys in Paris
 
 ------------------------------------------------------------------------------------------------
-<img src="/assets/images/Research/SyL.jpeg" width="180" alt="My Image" /> 
+
+<div style="float: left; margin-right: 1em;">  <img src="/assets/images/Research/SyL.jpeg" width="180" alt="Shengyue" /></div>
 
 **Name**: Shengyue Lu
 
@@ -53,6 +54,9 @@ Luckily, I never work alone and I received a lot of supports from my PhD supervi
 
 **Project**: Optimal hydrogen network in an refinery
 
+**Current**: Master student at École Polytechnique
+
+------------------------------------------------------------------------------------------------
 
 ## Opportunities
 I always welcome talented bachelor and master students to do an internship, thesis or research project with me at **EPFL** or **TotalEnergies**. Available projects are listed on the [project website](https://yizhao1101.github.io/researchproposal/). Any ideas or comments related to my research topic are also highly appreciated.
